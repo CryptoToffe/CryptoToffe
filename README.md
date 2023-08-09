@@ -13,9 +13,9 @@ Smart contracts you control. Powerful SDKs and intuitive tools for developers. S
 
 ## Build Contracts
 
-- Contracts repo: <a href="https://github.com/thirdweb-dev/contracts">Contracts</a>
-- Learn how to start building smart contracts: <a href="https://portal.thirdweb.com/pre-built-contracts">Prebuilt Contracts</a> •
-  <a href="https://portal.thirdweb.com/extensions">Extensions</a>
+- Contracts repo: <a href="https://github.com/CryptoToffe/Contract">Contracts</a>
+- NFT Minting: <a href="https://github.com/CryptoToffe/Contract/blob/main/SignatureMintERC721.md">SignatureMintERC721</a> •
+  
 
 ## Ship Projects
 

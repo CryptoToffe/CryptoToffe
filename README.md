@@ -5,7 +5,9 @@
 
 <!-- Banner Image -->
 
-![Thirdweb Examples Header](header-image.png)
+<p align="center">
+  <img src="https://2042927733-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fq6RUBAe7bpFHQLQeirYD%2Fuploads%2F0GJ6MQMzXCEkoeZunUE3%2FTHE%20PERFECT%20ECOSYSTEM%20AT%20CRYPTO%20TOFFE.png?alt=media&token=59f8f245-acd9-4c30-9c9f-bd71bae1ad99" width="100%">
+</p>
 
 Smart contracts you control. Powerful SDKs and intuitive tools for developers. Ship on-chain faster.
 

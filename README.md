@@ -26,7 +26,7 @@ Smart contracts you control. Powerful SDKs and intuitive tools for developers. S
 - ERC721 Claim PhasesV2: <a href="https://github.com/CryptoToffe/Waitlist-Based-NFT/blob/main/ERC721ClaimPhasesV2.sol">Claim PhasesV2</a>
 - Contract Metadata: <a href="https://github.com/CryptoToffe/Waitlist-Based-NFT/blob/main/ContractMetadata.sol">Metadata</a>
 
-## Create Apps
+## Create Apps With ThirdWeb
 
 - JavaScript Monorepo: <a href="https://github.com/thirdweb-dev/js">Monorepo</a>
 - SDK repos: <a href="https://github.com/thirdweb-dev/js/tree/main/packages/sdk">TypeScript</a> • <a href="https://github.com/thirdweb-dev/js/tree/main/packages/react">React</a> • <a href="https://github.com/thirdweb-dev/python-sdk">Python</a> • <a href="https://github.com/thirdweb-dev/go-sdk">Go</a> 
@@ -34,9 +34,9 @@ Smart contracts you control. Powerful SDKs and intuitive tools for developers. S
 
 ## Contributing
 
-We welcome contributions from all developers, regardless of experience level. If you are interested in contributing, please read our [JS Monorepo Contributing Guide](https://github.com/thirdweb-dev/js/blob/main/.github/contributing.md) where you'll learn how the repo works, how to test your changes, and how to submit a pull request.
+We welcome contributions from all developers, regardless of experience level. If you are interested in contributing, please read our [Contributing Guide](https://github.com/CryptoToffe/Waitlist-Based-NFT/blob/main/README.md) where you'll learn how the repo works, how to test your changes, and how to submit a pull request.
 
-We're working on contributing guidelines. Stay tuned or join our [Discord](https://discord.com/invite/thirdweb) for more info.
+We're working on contributing guidelines. Stay tuned or join our [Discord](https://discord.com/invite/YEspEFG7jq) for more info.
 
 ## Security
 

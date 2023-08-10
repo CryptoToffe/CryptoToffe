@@ -19,11 +19,12 @@ Smart contracts you control. Powerful SDKs and intuitive tools for developers. S
 - Solidity: <a href="https://github.com/CryptoToffe/Contract/blob/main/Solidity">Solidity</a> 
   
 
-## Ship Projects
+## Waitlist Based NFT
 
-- CLI repo: <a href="https://github.com/thirdweb-dev/js/tree/main/packages/cli">CLI</a>
-- Dashboard repo: <a href="https://github.com/thirdweb-dev/dashboard">Dashboard</a>
-- Learn how to <a href="https://portal.thirdweb.com/release">Release</a> and <a href="https://portal.thirdweb.com/deploy">Deploy</a> smart contracts
+- Permissions: <a href="https://github.com/CryptoToffe/Waitlist-Based-NFT/blob/main/Permissions.sol">Permissions</a>
+- Platform Fee: <a href="https://github.com/CryptoToffe/Waitlist-Based-NFT/blob/main/PlatformFee.sol">Fee</a>
+- ERC721 Claim PhasesV2: <a href="https://github.com/CryptoToffe/Waitlist-Based-NFT/blob/main/ERC721ClaimPhasesV2.sol">Claim PhasesV2</a>
+- Contract Metadata: <a href="https://github.com/CryptoToffe/Waitlist-Based-NFT/blob/main/ContractMetadata.sol">Metadata</a>
 
 ## Create Apps
 

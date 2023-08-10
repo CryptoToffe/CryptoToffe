@@ -47,10 +47,10 @@ We're working on contributing guidelines. Stay tuned or join our [Discord](https
 
 If you believe you have found a security vulnerability, we kindly ask you to responsibly disclose this and not open a public issue. 
 
-Please email security@thirdweb.com to disclose any security vulnerabilities.
+Please email support@cryptotoffe.com to disclose any security vulnerabilities.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/CryptoToffe?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -77,7 +77,7 @@ Please email security@thirdweb.com to disclose any security vulnerabilities.
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-### Other Languages I know
+### Other Languages
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---

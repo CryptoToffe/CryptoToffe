@@ -14,7 +14,9 @@ Smart contracts you control. Powerful SDKs and intuitive tools for developers. S
 ## Build Contracts
 
 - Contracts repo: <a href="https://github.com/CryptoToffe/Contract">Contracts</a>
-- NFT Minting: <a href="https://github.com/CryptoToffe/Contract/blob/main/SignatureMintERC721.md">SignatureMintERC721</a> •
+- NFT Minting: <a href="https://github.com/CryptoToffe/Contract/blob/main/SignatureMintERC721.md">SignatureMintERC721</a> 
+- Deploy: <a href="https://github.com/CryptoToffe/Contract/blob/main/deploy">Deploy</a>
+- Solidity: <a href="https://github.com/CryptoToffe/Contract/blob/main/Solidity">Solidity</a> 
   
 
 ## Ship Projects
